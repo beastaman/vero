@@ -120,12 +120,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out and connect:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
-- **Twitter**: [Your Twitter](https://twitter.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **Instagram**: [Your Instagram](https://instagram.com/yourusername)
+- **Email**: [mohammedamannawaz@gmail.com](mailto:mohammedamannawaz@gmail.com)
+- **GitHub**: [BeastAman🧑‍💻👨‍💻](https://github.com/beastaman)
+- **Twitter**: [Twitter](https://twitter.com/MohammedN11)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/beastaman)
+- **Instagram**: [Instagram](https://instagram.com/mohd_aman_25)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [beastaman](https://mohdaman-portfolio.vercel.app)
